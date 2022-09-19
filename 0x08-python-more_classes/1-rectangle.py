@@ -4,9 +4,9 @@
 
 
 class Rectangle:
-    """ class rectangle """
+    """ class rectangle"""
     def __init__(self, width=0, height=0):
-        """ Instantiation with optional width and height """
+        """ Instantiation with optional width and height"""
         self.width = width
         self.height = height
 
